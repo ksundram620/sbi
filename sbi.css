@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-image: url(back.jpg);
+}
+
+
+.container{
+    width: 85%;
+    height: 1000px;
+    margin: 0 7.5%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    
+}
+.logo{
+    width: 100%;
+    height: 80px ;
+    background-color: rgb(243, 236, 236);
+    
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+.menu{
+    width: 100%;
+    height: 28px;
+    background-color: rgb(19, 10, 87);
+    
+
+}
+.menu li{
+    display: inline;
+    padding: 5px;
+    color: white;
+    border-right: 2px solid aqua;
+    
+}
+.info{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(243, 236, 236);
+    
+}
+.info p{
+    text-align: center;
+    color: blue;
+}
+.banking{
+    width: 100%;
+    height: 260px;
+    
+
+}
+.personal{
+    width: 50%;
+    height: 260px;
+    float: left;
+    background-color: rgb(243, 236, 236);
+    
+}
+.img{
+   
+    padding: 5px 290px;
+    height: 50px;
+ }
+ 
+.pbank{
+    text-align: center;
+}
+.personal li{
+    display: inline;
+    padding: 15px;
+    
+    
+}
+
+.corporate{
+    width: 50%;
+    height: 260px;
+    float: right;
+    background-color: rgb(243, 236, 236);
+}
+.imgcor{
+    padding: 5px 220px;
+    height: 50px;
+ }
+ .cor{
+     display: inline;
+    
+ }
+ .corporate li{
+    display: inline;
+    padding: 15px;
+    
+    
+}
+
+.news{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(162, 232, 243);
+    color: red;
+}
+.link{
+    width: 100%;
+    height: 225px;
+    background-color: rgb(243, 236, 236);
+}
+.one{
+    width: 25%;
+    height: 175px;
+    float: left;
+    color: blue;
+}
+.one li{
+    padding: 12px 0px 0px 0px;
+}
+.two{
+    width: 25%;
+    height: 175px;
+    float: left;
+    color: blue;
+}
+.two li{
+    padding: 12px 0px 0px 0px;
+}
+.three{
+        width: 25%;
+        height: 175px;
+        float: left;
+        color: blue;
+}
+.three li{
+    padding: 12px 0px 0px 0px;
+}
+.four{
+    width: 25%;
+    height: 175px;
+    float: left;
+    color: blue;
+}
+.four li{
+    padding: 12px 0px 0px 0px;
+}
+.slider{
+    width: 100%;
+    height: 275px;
+    background-image: url(add.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(19, 10, 87);
+}
+.footl{
+    display: inline;
+    float: left;
+    padding: 3px;
+    font-size: small;
+    color: white;
+}
+.foot2{
+    display: inline;
+    float: right;
+    padding: 3px;
+    font-size: small;
+    color: white;
+}
